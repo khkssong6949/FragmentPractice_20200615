@@ -8,5 +8,11 @@
     android:orientation="vertical"
     android:padding="10dp">
 
+    <fragment
+        android:tag="첫번째 프래그먼트"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        class="com.hgney.fragmentpractice_20200615.fragments.FirstFragment"/>
+
 
 </LinearLayout>
